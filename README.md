@@ -39,7 +39,7 @@ Python is not my main coding language and as such the code in the script could m
 The script has been developed on Python 2.7, installed on an Ubuntu 16.04 server (running on an ESXi virtual machine). In addition to python 2.7, the following libraries are required:
 
     Core libraries:
-        -   cv2:            pip install python-opencv
+        -   cv2:            pip install opencv-python
         -   numpy:          pip install numpy
         -   paho:           pip install paho-mqtt
 
