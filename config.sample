@@ -12,9 +12,9 @@ PUSH_MQTT_ALERT = False #Send an alert back to BI camera with same name plus "_a
 PUSH_PUSHBULLET_NOTIFICATION = False
 PUSHBULLET_API_KEY = ""
 
-PUSH_TELEGRAM_ALERT = True
+PUSH_TELEGRAM_ALERT = False
 TELEGRAM_API_TOKEN = ""
-TELEGRAM_CHAT_ID = 
+TELEGRAM_CHAT_ID = ""
 
 # Note that even if set to True, original images are only saved if they do not have any identified objects
 SAVE_ORIGINAL_IMAGE = True
